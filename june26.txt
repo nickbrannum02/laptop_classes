@@ -1,0 +1,2 @@
+first time committing to github from command line
+
